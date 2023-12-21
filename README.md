@@ -40,7 +40,7 @@ To run this API locally, follow these steps:
 
 ### Instalação / Installation
 
-- git clone https://github.com/seu-usuario/seu-repositorio.git
+- git clone https://github.com/OctavioRainolfo/ASP_NET_DDD.git
 - dotnet restore   
 - dotnet ef database update   
 - dotnet run

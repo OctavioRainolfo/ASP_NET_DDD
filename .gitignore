@@ -1,0 +1,37 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.dotnet
+/.gitconfig
+/.lesshst
+/.librarymanager
+/.node_repl_history
+/.nuget
+/.rest-client
+/.software
+/.templateengine
+/.vscode
+/3D Objects
+/AppData
+/BrawlhallaReplays
+/Contacts
+/Documents
+/Downloads
+/Favorites
+/GerenciadorDeCaixaDB.mdf
+/GerenciadorDeCaixaDB_log.ldf
+/Links
+/Music
+/NTUSER.DAT
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+/ntuser.ini
+/OneDrive
+/OneDrive - Biopark Educação
+/Saved Games
+/Searches
+/Videos
